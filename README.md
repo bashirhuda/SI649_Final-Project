@@ -16,6 +16,7 @@
   Furthermore, individuals aged between 36-65 also have a disproportionately higher burden of medical debt. This is also concerning given that these are individuals who are tasked with having to save for their future through retirement funds and investments, yet are struggling to maintain financial stability.
 
 ![Medical Debt - Age](https://user-images.githubusercontent.com/124013955/233873398-b35018d4-449d-43bf-83d1-4d36680054ca.jpg)
+[Data Source: Survey of Income and Program Participation, 2020 (U.S. Census Bureau)](https://www.census.gov/programs-surveys/sipp/data/datasets/2020-data/2020.html)
 
 These visualizations reinforce the impact of structural sexism,systemic racism on the health outcomes of minorities and the importance of considering social determinants of health for interventions. Further research is needed to better understand the factors contributing to these disparities and to identify effective policies to address them.
 
